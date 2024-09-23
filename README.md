@@ -1,4 +1,4 @@
-# MAC Flood
+# SYN Flood
 
 This Python script is designed to perform a SYN Flood attack, which is a type of Denial-of-Service (DoS) attack that involves sending numerous SYN packets to a specified target IP address and port.
 
