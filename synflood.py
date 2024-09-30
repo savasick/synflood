@@ -2,9 +2,7 @@
 
 import sys
 import os
-sys.stderr = None 
 from scapy.all import *
-sys.stderr = sys.__stderr__
 import netifaces
 import time
 
